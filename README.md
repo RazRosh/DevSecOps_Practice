@@ -1,2 +1,5 @@
 # DevSecOps_Practice
-This is 
+This is DevSecOps Pipeline that checks for the followings:
+- Secrets
+- Vulnerable Depndecies
+- Dynamic vulnerability scan
